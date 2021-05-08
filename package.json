@@ -1,0 +1,22 @@
+{
+  "name": "linkedinassisthackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LinkedinAssist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arvind8998/LinkedinAssistHackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvind8998/LinkedinAssistHackathon/issues"
+  },
+  "homepage": "https://github.com/Arvind8998/LinkedinAssistHackathon#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
